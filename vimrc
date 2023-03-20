@@ -11,3 +11,8 @@ set mouse=a
 set hls is
 set ic
 colorscheme elflord 
+
+call plug#begin()
+
+Plug "https://github.com/nvim-telescope/telescope.nvim" # Telescope
+Plug "https://github.com/nvim-lua/plenary.nvim" # Telescope dependencies
