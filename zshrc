@@ -10,5 +10,5 @@ bindkey -v
 # Adding homebrew to path
 export PATH=/opt/homebrew/bin:$PATH
 
-# Adding new version of pip to path
+# Adding newer version of pip to path
 export PATH=/Users/karthik/Library/Python/3.9/bin:$PATH
